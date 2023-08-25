@@ -1,0 +1,18 @@
+.top_conatiner{
+    height:60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.hover label{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.hover>label:hover{
+cursor: pointer;
+}
